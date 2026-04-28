@@ -25,7 +25,7 @@ org_settings:
   webhook_settings:
     activities_webhook:
       enable_activities_webhook: true
-      destination_url: "https://fleet-5qtq.onrender.com/"
+      destination_url: "https://webhook.site/06d8c971-0bbf-4d9b-a12a-a1c226974e35"
 
   server_settings:
     ###########################################################
