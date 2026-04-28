@@ -85,6 +85,10 @@ software:
   fleet_maintained_apps:
     - slug: bruno/darwin
       self_service: true
+    - slug: chatgpt/darwin
+      self_service: true
+    - slug: figma/darwin
+      self_service: true
 
   packages:
     - path: ../platforms/windows/software/cloudflare-warp.yml
