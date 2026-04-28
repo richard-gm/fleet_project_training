@@ -187,7 +187,7 @@ software:
 
   packages: # Custom packages (if any)
     # macOS custom packages
-    - paths: ../platforms/macos/software/zoom.yml
+    - path: ../platforms/macos/software/zoom.yml
       self_service: true
       setup_experience: true
       categories:
