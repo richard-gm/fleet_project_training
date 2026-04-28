@@ -69,7 +69,7 @@ controls:
     configuration_profiles:
       - paths: ../platforms/macos/declaration-profiles/*.json
       - paths: ../platforms/macos/configuration-profiles/*.mobileconfig
-      - path: ../platforms/macos/configuration-profiles/disable-remote-management.mobileconfig
+      - path: ../platforms/macos/configuration-profiles/disable-bluetooth-file-sharing.mobileconfig
         label_include_all:
           - Department - Engineering
 
