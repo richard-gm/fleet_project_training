@@ -26,7 +26,6 @@ org_settings:
     activities_webhook:
       enable_activities_webhook: true
       destination_url: webhood.site
-    webhook_secret: $FLEET_WEBHOOK_SECRET
 
   server_settings:
     ###########################################################
