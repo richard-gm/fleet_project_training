@@ -6,4 +6,4 @@
   platform: darwin
   # This script will set the DNS resolver to Cloudflare's
   run_script:
-    path: ../scripts/set_cloudflare_dns.sh
+    path: ../scripts/set-dns-cloudflare.sh
